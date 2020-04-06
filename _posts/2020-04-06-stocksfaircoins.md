@@ -16,11 +16,17 @@ It turns out that the stock returns landed on “heads” 50.265% of the time. A
 
 A t-test used to determine if the average of our data set was indeed .5 produced a p-value with 15 leading zeros. We could therefore reject the hypothesis that stocks are fair coins. But does that mean that Malkiel is wrong about stocks?
 
+![alt text](/img/secondmalkielquote.png)
+
 Absolutely not! The chart he produced from coin flips was of a single stock so it is necessary for us to separate out and test the individual stocks. By testing all the stocks in the S&P 500 at the same, we were essentially diversifying and “buying the index” of which Malkiel himself is a huge fan. He was even a director of Vanguard, one of the biggest champions of indexing, for 28 years!
 
 I then performed a t-test at the individual stock level which showed that about 70% of stocks are fair coins.
 
+![alt text](/img/firstchart.png)
+
 This is much more conclusive than the first simple test showed but I felt that the percentage of stocks which are fair coins was still too low. Since it is rare for active managers to hold every stock for a 20 year period, it would be much more enlightening to look at this data over a shorter time horizon so I then tested the daily returns after separating them by both stock and year. The roughly 10,000 t-tests produced the following:
+
+![alt text](/img/secondchart.png)
 
 This shows that individual stocks act like a fair coin almost 90% of the time when aggregated by year! I would expect the percentage of stocks which are “fair coins” to increase as the unit of time used to aggregate them increases. A follow up to this analysis is to aggregate the data by month, day or even hour.
 
