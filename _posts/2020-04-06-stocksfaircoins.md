@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Stocks Fair Coins?
-image: /img/hello_world.jpeg
+image: /img/scrooge.png
 ---
 
 According to the Efficient Market Hypothesis, the stock market is “efficient” and all relevant information is already incorporated into a stock’s price. This leads to the random walk hypothesis in which it is impossible to know whether a stock’s price will go up or down. One of the most prominent supporters of the random walk hypothesis is Burton Malkiel.
