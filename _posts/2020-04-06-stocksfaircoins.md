@@ -6,7 +6,7 @@ image: /img/scrooge.png
 
 According to the Efficient Market Hypothesis, the stock market is “efficient” and all relevant information is already incorporated into a stock’s price. This leads to the random walk hypothesis in which it is impossible to know whether a stock’s price will go up or down. One of the most prominent supporters of the random walk hypothesis is Burton Malkiel.
 
-![alt text](/img/firstmalkielquote.png)
+![alt text](/img/firstmalkielquote.png){: .center-block :}
 
 Burton Malkiel decided to test the random walk hypothesis by performing a series of coin flips. A head was considered a gain and landing on tails was considered a loss. He then charted the series of results as if they were stock returns. He then showed this chart of coin flips to a technical analyst or “chartist” who proclaimed he should buy the stock immediately. Malkiel then determined that “ this indicates that the market and stocks could be just as random as flipping a coin.”
 
